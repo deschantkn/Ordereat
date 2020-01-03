@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Pepperonni Special",
+      "ingredients": ["tomatoes sauce", "cheese", "pepperonni"],
+      "price": 5000
+    },
+    {
+      "id": 2,
+      "name": "4 Season",
+      "ingredients": ["Tomatoes", "onions", "green pepper", "black olive", "pepperoni", "mushroom and Mozzarella Cheese"],
+      "price": 4500
+    },
+    {
+      "id": 3,
+      "name": "Chicken BBQ",
+      "ingredients": ["BBQ chicken", "sweetcorn", "onion", "BBQ Sauce", "Pepperoni & Mozzarella Cheese"],
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "name": "Chicken BBQ",
+      "ingredients": ["BBQ chicken", "sweetcorn", "onion", "BBQ Sauce", "Pepperoni & Mozzarella Cheese"],
+      "price": 5000
+    }
+]
+}

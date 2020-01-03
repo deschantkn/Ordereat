@@ -1,0 +1,4 @@
+.vscode
+.data/carts/*
+.data/tokens/*
+.data/users/*
