@@ -3,26 +3,42 @@
     {
       "id": 1,
       "name": "Pepperonni Special",
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?cs=srgb&dl=pizza-on-brown-wooden-board-825661.jpg&fm=jpg",
       "ingredients": ["tomatoes sauce", "cheese", "pepperonni"],
       "price": 5000
     },
     {
       "id": 2,
       "name": "4 Season",
-      "ingredients": ["Tomatoes", "onions", "green pepper", "black olive", "pepperoni", "mushroom and Mozzarella Cheese"],
+      "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?cs=srgb&dl=close-up-photo-of-person-holding-pizza-1653877.jpg&fm=jpg",
+      "ingredients": [
+        "onions",
+        "pepperoni",
+        "mushroom and Mozzarella Cheese"
+      ],
       "price": 4500
     },
     {
       "id": 3,
       "name": "Chicken BBQ",
-      "ingredients": ["BBQ chicken", "sweetcorn", "onion", "BBQ Sauce", "Pepperoni & Mozzarella Cheese"],
+      "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?cs=srgb&dl=baked-pizza-on-pizza-peel-in-oven-905847.jpg&fm=jpg",
+      "ingredients": [
+        "BBQ chicken",
+        "BBQ Sauce",
+        "Pepperoni & Mozzarella Cheese"
+      ],
       "price": 5000
     },
     {
       "id": 4,
       "name": "Chicken BBQ",
-      "ingredients": ["BBQ chicken", "sweetcorn", "onion", "BBQ Sauce", "Pepperoni & Mozzarella Cheese"],
+      "image": "https://images.pexels.com/photos/803290/pexels-photo-803290.jpeg?cs=srgb&dl=pepperoni-pizza-803290.jpg&fm=jpg",
+      "ingredients": [
+        "sweetcorn",
+        "BBQ Sauce",
+        "Pepperoni & Mozzarella Cheese"
+      ],
       "price": 5000
     }
-]
+  ]
 }

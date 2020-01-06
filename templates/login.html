@@ -1,0 +1,20 @@
+<main class="login__main">
+  <h1>Login to order your pizza!</h1>
+  <form id="user-login" action="/api/login" method="POST">
+    <div class="formError"></div>
+
+    <div class="input-group">
+      <label for="userEmail">Enter your email address:</label>
+      <input type="email" name="email" id="userEmail" required>
+    </div>
+
+    <div class="input-group">
+      <label for="userPassword">Choose a password:</label>
+      <input type="password" name="password" id="userPassword" required>
+    </div>
+
+    <div class="input-group">
+      <button type="submit">Login</button>
+    </div>
+  </form>
+</main>

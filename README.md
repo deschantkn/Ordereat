@@ -21,3 +21,5 @@ MAILGUN_API_KEY=<mailgun_api_private_key>
     MAILGUN_API_KEY= \
     node index.js
     ```
+#### Accessing the frontend
+Wep app is available at root of whatever port your server is running on
