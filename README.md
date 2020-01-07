@@ -1,5 +1,5 @@
-# Pizza API
-A RESTful API without using external packages. No node_modules or npm.
+# Ordereat
+A no node_modules or npm REST API with a pure CSS, HTML and JS web app. Built as a requirement for the [Pirple Nodejs Masterclass](https://pirple.thinkific.com/courses/the-nodejs-master-class)
 
 #### Required Environment Variables
 ```bash
