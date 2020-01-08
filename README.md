@@ -11,7 +11,7 @@ MAILGUN_API_KEY=<mailgun_api_private_key>
 
 #### How to start the server
 1. Fill in all required environment variables
-2. Ensure the `carts`, `tokens`, and `users` folders are present in the `.data` directory
+2. Ensure the `carts`, `tokens`, `orders`, and `users` folders are present in the `.data` directory
 
 3. Run the following command
     ```bash
