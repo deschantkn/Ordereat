@@ -14,6 +14,7 @@ STRIPE_TEST_SECRET=sk_test_<stripe_test_secret>
 MAILGUN_SANDBOX_DOMAIN=sandbox<mailgun_domain>
 MAILGUN_SANDBOX_ADDRESS=<something>@<mailgun_domain>
 MAILGUN_API_KEY=<mailgun_api_private_key>
+HASHING_SECRET=<token_hashing_string>
 ```
 
 #### How to start the server
@@ -26,5 +27,6 @@ MAILGUN_API_KEY=<mailgun_api_private_key>
     MAILGUN_SANDBOX_DOMAIN= \
     MAILGUN_SANDBOX_ADDRESS= \
     MAILGUN_API_KEY= \
+    HASHING_SECRET= \
     node index.js
     ```
