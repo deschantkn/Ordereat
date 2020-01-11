@@ -1,0 +1,25 @@
+{
+  "name": "ordereat",
+  "version": "1.0.0",
+  "description": "\"A no node_modules or npm REST API with a pure CSS, HTML and JS web app. Built as a requirement for the Pirple Nodejs Masterclass.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git+https://github.com/deschantkn/Ordereat.git",
+  "keywords": [
+    "Node",
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "Deschant Kounou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deschantkn/Ordereat/issues"
+  },
+  "homepage": "https://github.com/deschantkn/Ordereat#readme"
+}
