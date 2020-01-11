@@ -1,5 +1,12 @@
 # Ordereat
-A no node_modules or npm REST API with a pure CSS, HTML and JS web app. Built as a requirement for the [Pirple Nodejs Masterclass](https://pirple.thinkific.com/courses/the-nodejs-master-class)
+A no node_modules or npm REST API with a pure CSS, HTML and JS web app. Built as a requirement for the [Pirple Nodejs Masterclass](https://pirple.thinkific.com/courses/the-nodejs-master-class).
+
+#### Project components
+1. **REST API** built with internal Node.js modules only
+2. Web App built with **HTML, CSS and JS**, no frameworks
+3. An **event driven** CLI for admin tasks
+4. **Stripe** integration to accept credit card payments
+5. **Mailgun** integration to send receipts as emails
 
 #### Required Environment Variables
 ```bash
@@ -21,5 +28,3 @@ MAILGUN_API_KEY=<mailgun_api_private_key>
     MAILGUN_API_KEY= \
     node index.js
     ```
-#### Accessing the frontend
-Wep app is available at root of whatever port your server is running on
