@@ -1,6 +1,8 @@
 # Ordereat
 A no node_modules or npm REST API with a pure CSS, HTML and JS web app. Built as a requirement for the [Pirple Nodejs Masterclass](https://pirple.thinkific.com/courses/the-nodejs-master-class).
 
+#### [Completetion Certificate Link](https://www.credential.net/df6f5d58-19fc-4db4-8bbc-bd9aa5f944fb)
+
 #### Project components
 1. **REST API** built with internal Node.js modules only
 2. Web App built with **HTML, CSS and JS**, no frameworks
